@@ -6,4 +6,4 @@ p "A plate of #{protein} with #{veg1} and #{veg2}."
 
 end
 
-p meal_choice
+puts meal_choice
